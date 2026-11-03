@@ -1,5 +1,4 @@
 # Fashion_Trend_Analysis
-# Fashion Trend Analysis
 
 Welcome to the **Fashion Trend Analysis** project repository! This project focuses on analyzing fashion-related data to discover trends, patterns, and meaningful insights. Using Python and data visualization techniques, this project explores the dataset through data cleaning, preprocessing, and Exploratory Data Analysis (EDA).
 
@@ -12,7 +11,7 @@ This README file provides essential information to understand the project and ge
 - **Exploratory Data Analysis:** Analyze different variables and identify meaningful patterns and relationships.
 - **Data Visualization:** Use charts and graphs to present fashion trends and insights effectively.
 
-## Features
+# Features
 
 - **Data Analysis:** Analyze fashion-related data using Python and Pandas to discover useful insights.
 - **Data Preprocessing:** Clean and transform raw data to make it suitable for analysis.
@@ -21,7 +20,7 @@ This README file provides essential information to understand the project and ge
 - **Data Visualization:** Create attractive and informative visualizations using Matplotlib and Seaborn.
 - **Insight Generation:** Understand fashion trends through data-driven observations and analysis.
 
-## Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
